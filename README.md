@@ -33,4 +33,4 @@ Built for professional VJ setups (like Resolume, Synesthesia, OBS), VJ-Link bypa
 - Official NDI SDK for Linux installed on your system.
 
 ## Version
-Current Version: 1.6.2 Stable
+Current Version: 1.6.3 Stable

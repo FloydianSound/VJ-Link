@@ -1,7 +1,7 @@
 bl_info = {
     "name": "VJ-Link",
     "author": "FloydianSound & Gemini",
-    "version": (1, 6, 2),
+    "version": (1, 6, 3),
     "blender": (4, 0, 0),
     "location": "View3D > Sidebar > VJ-Link",
     "description": "Hyper-optimized NDI Receiver for Linux (Stable Build)",
@@ -184,7 +184,7 @@ def toggle_link(self, context):
 # -------------------------------------------------------------------------
 
 class VJLINK_PT_MainPanel(bpy.types.Panel):
-    bl_label = "VJ-Link v1.6.2"
+    bl_label = "VJ-Link v1.6.3"
     bl_idname = "VJLINK_PT_MainPanel"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
